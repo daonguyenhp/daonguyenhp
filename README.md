@@ -25,9 +25,9 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,r,pytorch,tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,r&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,wandb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </div>
 
 ---
