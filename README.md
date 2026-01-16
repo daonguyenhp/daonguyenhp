@@ -66,14 +66,14 @@
   </a>
 </div>
 
-### 📂 Featured Projects
-<a href="https://github.com/daonguyenhp/icram-web/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=icram-web&theme=radical" />
-</a>   
+### 📂 Featured Projects 
 <a href="https://github.com/daonguyenhp/xinloividaden/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=xinloividaden&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=xinloividaden&theme=radical" />
+</a>   
+<a href="https://github.com/daonguyenhp/icram-web">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=icram-web&theme=onedark" />
 </a>   
 <a href="https://github.com/daonguyenhp/mt1007_pca/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
