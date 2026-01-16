@@ -65,3 +65,18 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+### 📂 Featured Projects
+<a href="https://github.com/daonguyenhp/icram-web/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=icram-web&theme=radical" />
+</a>   
+<a href="https://github.com/daonguyenhp/xinloividaden/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=xinloividaden&theme=merko" />
+</a>   
+<a href="https://github.com/daonguyenhp/mt1007_pca/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=mt1007_pca&theme=merko" />
+</a>   
+
