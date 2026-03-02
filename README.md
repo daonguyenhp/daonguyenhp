@@ -79,4 +79,12 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=mt1007_pca&theme=merko" />
 </a>   
+<a href="https://github.com/daonguyenhp/det-gam-theu-hoa/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=det-gam-theu-hoa&theme=radical" />
+</a>   
+<a href="https://github.com/daonguyenhp/mindsweeper_nmai/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=daonguyenhp&repo=mindsweeper_nmai&theme=merko" />
+</a>   
 
